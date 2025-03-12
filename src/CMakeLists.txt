@@ -1,0 +1,1 @@
+add_executable(MyGame src/main.c)
